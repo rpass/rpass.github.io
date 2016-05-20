@@ -12,3 +12,11 @@ main {
 h2 {
   margin-bottom: 5px;
 }
+
+#updates {
+  margin-top: 20px;
+}
+
+section#social-media-icons a {
+  text-decoration: none;
+}

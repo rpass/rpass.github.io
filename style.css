@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 main {
@@ -7,6 +8,10 @@ main {
   margin: auto;
   padding: 20px;
   border: 1px solid #73AD21;
+}
+
+header h1{
+  margin: 5px;
 }
 
 h2 {
